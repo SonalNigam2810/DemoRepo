@@ -29,4 +29,8 @@ public class SpecialAssistance {
 		System.out.println(driver1.findElements(By.xpath("//input[@type='checkbox']")).size()); 
 		
 	}
+	
+	public void testModify() {
+		System.out.println("Test Modify");
+	}
 }
